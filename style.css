@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    /* border: 1px solid black; */
+    background-color: aquamarine;
+    height: 100vh;
+}
+.full{
+    padding-top: 80px;
+    padding-left: 540px;
+}
